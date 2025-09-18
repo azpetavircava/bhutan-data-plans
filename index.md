@@ -49,3 +49,10 @@ layout: default
 
 　　带上合适的网络装备，然后就把心放回肚子里，好好享受不丹的山川与宁静吧。毕竟，连接世界很重要，但连接眼前的幸福更重要。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Bhutan SIM 卡购买与激活指南](https://faciylike.github.io/bhutan-sim-guides)
